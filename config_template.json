@@ -1,0 +1,72 @@
+{
+  "games": [
+    {
+      "name": "Honkai Impact 3rd",
+      "enable": false,
+      "platform": "miHoYo",
+      "code": "MI-HI3",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Genshin Impact",
+      "enable": false,
+      "platform": "miHoYo",
+      "code": "MI-GI",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "enable": false,
+      "platform": "miHoYo",
+      "code": "MI-SR",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "enable": false,
+      "platform": "miHoYo",
+      "code": "MI-ZZZ",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Honkai Impact 3rd",
+      "enable": false,
+      "platform": "HoYoLab",
+      "code": "HY-HI3",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Genshin Impact",
+      "enable": false,
+      "platform": "HoYoLab",
+      "code": "HY-GI",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "enable": false,
+      "platform": "HoYoLab",
+      "code": "HY-SR",
+      "url": "",
+      "actId": ""
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "enable": false,
+      "platform": "HoYoLab",
+      "code": "HY-ZZZ",
+      "url": "",
+      "actId": ""
+    }
+  ],
+  "cookie": {
+    "miHoYo": "",
+    "hoYoLab": ""
+  }
+}
