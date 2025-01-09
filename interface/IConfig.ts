@@ -1,18 +1,18 @@
 export interface IGame {
-    platform: string
     code: string
     name: string
-    enable: boolean
+    enabled: boolean
     url: string
+    cookie: string
     actId: string
 }
-
-export interface ICookie {
-    miHoYo: string
-    hoYoLab: string
+export interface IScheduler {
+    enabled: boolean
+    expression: string
 }
-
 export interface IConfig {
+    platform: string
+    cookie: string
+    scheduler: IScheduler
     games: IGame[]
-    cookie: ICookie
 }

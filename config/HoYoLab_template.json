@@ -1,0 +1,38 @@
+{
+  "platform": "HoYoLab",
+  "cookie": "",
+  "scheduler": {
+    "enabled": false,
+    "expression": "* * * * *"
+  },
+  "games": [
+    {
+      "code": "HI3",
+      "name": "Honkai Impact 3rd",
+      "enabled": false,
+      "url": "",
+      "actId": ""
+    },
+    {
+      "code": "GI",
+      "name": "Genshin Impact",
+      "enabled": false,
+      "url": "",
+      "actId": ""
+    },
+    {
+      "code": "SR",
+      "name": "Honkai: Star Rail",
+      "enabled": false,
+      "url": "",
+      "actId": ""
+    },
+    {
+      "code": "ZZZ",
+      "name": "Zenless Zone Zero",
+      "enabled": false,
+      "url": "",
+      "actId": ""
+    }
+  ]
+}
